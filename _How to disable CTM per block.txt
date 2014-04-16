@@ -1,0 +1,70 @@
+Delete the associated .properties file from the zip to disable CTM on any of the following blocks:
+All these files are found in the CTM folder.
+
+
+Brick top		"Block45.properties"
+Brick Sides		"Block45a.properties"
+
+
+Brick Slab Double	"Block43.properties"
+Brick Slab Top		"Block44.properties"
+Brick stairs		"Block108.properties" + "Block108a.properties"
+
+
+Cobblestone		"Block4.properties"
+cobblestone Top		"Block4a.properties"
+Cobblestone Slab	"Block44a.properties"
+Cobblestone Slab Top	"Block44b.properties"
+Cobblestone Stairs	"Block67.properties"
+CobbleStone Stairs Top	"Block67a.properties"
+Cobblestone mossy top	"terrain36.properties"
+
+
+Dirt			"Block3.properties"
+
+
+Fence(wood)		"Block85.properties"
+
+
+Flower Red		"Terrain12.properties"
+Flower yellow		"Terrain13.properties"
+
+
+Grass (sprites)		"Terrain39.properties"
+Grass (Top)		"Terrain0.properties"
+
+Gold Block		"Block41.properties"
+
+
+Gravel			"Block13.properties"
+
+
+Leaves (oak) 		Terrain52
+
+
+Slabs (top)		"Terrain6.properties"
+
+
+Stone			"Block1.properties"
+
+
+SandStone Side		"Terrain192.properties"
+Sandstone Top		"Terrain176.properties"
+
+
+Stone Brick 		"Terrain54.properties"
+Stone Brick Moss(top)	"Terrain100.properties"
+Stone Brick Moss(sides)	"Terrain100a.properties"
+Stone Brick Decoration	"terrain213.properties"
+
+
+Vines			"Terrain143.properties"
+
+
+Wood Plank		"Block5.properties"
+Wood Slab		"Block126.properties"
+Wood Slab Double	"Block125.properties"
+Wood Stairs		"Block53.properties"
+
+
+Wool (white)		"Terrain64.properties"

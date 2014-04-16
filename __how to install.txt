@@ -1,0 +1,52 @@
+JohnSmith Texture Pack - Installation Instructions
+
+
+1) First of all, you need to Patch Minecraft with the latest "MCPATCHER"
+
+(it will fix ALL the bugs related to "HD" Textures (like Fire on Brick/Gold/Pumpking, water in the Nether, non working compass/clock, etc..) + it will add some cool features)
+
+Download it here:
+http://www.minecraftforum.net/topic/232701-18pre-compatible-mcpatcher-hd-fix-210-02/
+
+Run it, leave everything as default but make sure the following options are checked:
+
+-Mods Tab
+
+V HD Textures
+V HD Font
+V Random Mobs
+V Custom Colors
+V Better Skies
+
+-Options Tab
+
+Water	[custom animated]
+Lava	[custom animated]
+Fire	[custom animated]
+Portal	[custom animated]
+Other	[custom animated]
+
+
+Close Minecraft if it's open and then click "Patch" (in the "Mods" tab)
+
+
+
+2) Copy/move the file "johnsmith_V9.7.zip" in the ".Minecraft/texturepacks" folder (dont extract it!)
+
+To find this folder:
+
+launch Minecraft, go to: "Mods and Texture Packs" then click: "Open Texture Pack folder" at the bottom.
+Or alternately you can:
+click on "Windows Start" > Run (or search) and copy/paste the following then press Enter:
+
+%appdata%/.minecraft/texturepacks
+
+
+
+3) Run Minecraft, click "Mods & Texture Pack" and Select "Johnsmith_V9.7.zip"
+
+
+That's all,
+
+
+Happy Mining !!
