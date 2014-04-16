@@ -1,6 +1,26 @@
+  ___ ___                        .__  __   
+ /   |   \   ____ ___  ______  __|__|/  |_ 
+/    ~    \_/ __ \\  \/  /\  \/  /  \   __\
+\    Y    /\  ___/ >    <  >    <|  ||  |  
+ \___|_  /  \___  >__/\_ \/__/\_ \__||__|  
+       \/       \/      \/      \/         
+
+For Hexxit 1.0.10 (check version file in hexxit/bin)
+
+John Smith Hexxit pack hand painted, and maintained by
+
+- Tomosthe1st
+- Thysania
+
+
+     ____.      .__               _________       .__  __  .__     
+    |    | ____ |  |__   ____    /   _____/ _____ |__|/  |_|  |__  
+    |    |/  _ \|  |  \ /    \   \_____  \ /     \|  \   __\  |  \ 
+/\__|    (  <_> )   Y  \   |  \  /        \  Y Y  \  ||  | |   Y  \
+\________|\____/|___|  /___|  / /_______  /__|_|  /__||__| |___|  /
+                     \/     \/          \/      \/              \/ 
 
 Note: this pack is for 1.52 or less.
-
 
 _Font created by "Typodermic Fonts" and imported to Minecraft By "Nuin"
 Missing letters added by "Frank_Hooligan"
@@ -23,5 +43,6 @@ Thanks to all of the People who helped with the pack
 - EchoZeero 
 - WaterTipper
 - Necron 1992
+
 
 
