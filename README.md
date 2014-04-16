@@ -1,0 +1,7 @@
+JohnSmithHexxit
+===============
+This is a custom texture pack for Hexxit 1.0.10 based on the John Smith 1.5.2 texture pack for Minecraft.
+
+Bits of textures from John Smith Technitian Remix 1.5.2 are used within this pack.
+
+Just download a zip of the project and put it into your hexxit/texturepack folder.
