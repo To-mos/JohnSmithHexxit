@@ -5,3 +5,12 @@ This is a custom texture pack for Hexxit 1.0.10 based on the John Smith 1.5.2 te
 Bits of textures from John Smith Technitian Remix 1.5.2 are used within this pack.
 
 Just download a zip of the project and put it into your hexxit/texturepack folder.
+
+
+#In Progress
+
+```ExtrabiomesXL-universal-1.5.2-3.13.4```
+```OffLawn-1.5.1```
+
+#Finished
+
