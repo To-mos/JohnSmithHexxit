@@ -1,1 +1,1 @@
-32x32 "HD" Textures
+32x32 Hexxit Theme
