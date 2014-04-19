@@ -11,7 +11,7 @@ Just download a zip of the project and put it into your hexxit/texturepack folde
 
 | Pack  | Version  | % Complete |
 | :------------ |:---------------|:-----:|
-| ExtrabiomesXL-universal   | 1.5.2-3.13.4 | 89% |
+| ExtrabiomesXL-universal   | 1.5.2-3.13.4 | 99% |
 | OffLawn                   | 1.5.1        | 60% |
 | BiblioCraft               | 1.3.3        |  1% |
 
