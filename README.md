@@ -18,5 +18,5 @@ Just download a zip of the project and put it into your hexxit/texturepack folde
 #Finished
 
 | Pack  | Version  | % Complete
-| :------------ |:---------------|
+| :------------ |:---------------|:-----:|
 | ExtrabiomesXL-universal   | 1.5.2-3.13.4 | 100% |
