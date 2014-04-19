@@ -11,7 +11,6 @@ Just download a zip of the project and put it into your hexxit/texturepack folde
 
 | Pack  | Version  | % Complete |
 | :------------ |:---------------|:-----:|
-| OffLawn                   | 1.5.1        | 60% |
 | BiblioCraft               | 1.3.3        |  1% |
 | TwilightForest            | 1.18.1       |  1% |
 
@@ -20,3 +19,4 @@ Just download a zip of the project and put it into your hexxit/texturepack folde
 | Pack  | Version  | % Complete
 | :------------ |:---------------|:-----:|
 | ExtrabiomesXL-universal   | 1.5.2-3.13.4 | 100% |
+| OffLawn                   | 1.5.1        | 100% |
