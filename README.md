@@ -11,8 +11,8 @@ Just download a zip of the project and put it into your hexxit/texturepack folde
 
 | Pack  | Version  | % Complete |
 | :------------ |:---------------|:-----:|
-| BiblioCraft               | 1.3.3        |  1% |
-| TwilightForest            | 1.18.1       |  1% |
+| BiblioCraft               | 1.3.3        |  5% |
+| TwilightForest            | 1.18.1       |  2% |
 
 #Finished
 
